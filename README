@@ -1,0 +1,23 @@
+Conceptos
+
+Estructuración
+Siempre usamos la carpeta: `src` para guardar los archivos de código fuente.
+Dentro de `src` creamos una carpeta por cada módulo de la aplicación.
+Dentro de `src` creamos una carpeta llamada `models` donde guardamos nuestras clases
+Ejemplo:
+
+```
+src
+  /models
+    Cachipun.py
+app.py
+
+```
+
+Encapsulamiento, POO
+
+Vehiculo
+
+- camion
+- moto
+- auto
